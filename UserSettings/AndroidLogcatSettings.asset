@@ -1,0 +1,353 @@
+{
+    "m_SelectedDeviceId": "16e32a12",
+    "m_SelectedPackage": {
+        "deviceId": "16e32a12",
+        "name": "com.candyslice.cut.slice.candycrush",
+        "processId": 29091,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "5200b352592c65fb",
+            "name": "com.unity3d.genericremote",
+            "processId": 14820,
+            "exited": false
+        },
+        {
+            "deviceId": "5200b352592c65fb",
+            "name": "com.sec.android.app.launcher",
+            "processId": 4072,
+            "exited": false
+        },
+        {
+            "deviceId": "5200b352592c65fb",
+            "name": "com.askerweb.candy_knife",
+            "processId": 28988,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.miui.home",
+            "processId": 5894,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 23117,
+            "exited": true
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 24187,
+            "exited": true
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 27019,
+            "exited": true
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 28373,
+            "exited": true
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 29858,
+            "exited": true
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 31998,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 2401,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 3988,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 5162,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 7278,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 8550,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 9109,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 10183,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 11528,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 12338,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 13163,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 13897,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 14686,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 15479,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 19492,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 19939,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 20403,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 20999,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 21953,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 25649,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 26715,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 32265,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 6421,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 7488,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 8419,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 9174,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 11714,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 12580,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 17306,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 7417,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 2407,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 3901,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 6182,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 7056,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 7655,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 8533,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 9093,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 9640,
+            "exited": false
+        },
+        {
+            "deviceId": "16e32a12",
+            "name": "com.candyslice.cut.slice.candycrush",
+            "processId": 29091,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "video",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

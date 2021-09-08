@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11433688680",
+    "project_id": "candy-cut-slice",
+    "storage_bucket": "candy-cut-slice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11433688680:android:8fd3b4f55432e468bfc5dd",
+        "android_client_info": {
+          "package_name": "com.candyslice.cut.slice.candycrush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11433688680-e2dpc722s5d6lu3cb8afkc2pkf3dmll4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNhqyarl5NPfm7bjJuqCXYVvVDtTqKGtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11433688680-e2dpc722s5d6lu3cb8afkc2pkf3dmll4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

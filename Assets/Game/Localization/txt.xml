@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<Keys>
+    <Key Name = "Options">
+        <Translates>
+            <English>Settings</English>
+            <Russian>Настройки </Russian>
+            <Chinese>设定</Chinese>
+            <Spanish>Ajustes</Spanish>
+            <Arabic>إعدادات  </Arabic>
+            <Japanese>設定</Japanese>
+            <Portuguese>Definições</Portuguese>
+        </Translates>
+    </Key>
+    <Key Name = "Zvuk">
+        <Translates>
+            <English>Sound</English>
+            <Russian>Звук</Russian>
+            <Chinese>声音</Chinese>
+            <Spanish>Sonido</Spanish>
+            <Arabic>يبدو</Arabic>
+            <Japanese>音</Japanese>
+            <Portuguese>som</Portuguese>
+        </Translates>
+    </Key>
+    <Key Name = "Vibro">
+        <Translates>
+            <English>Vibration</English>
+            <Russian>Вибрация</Russian>
+            <Chinese>振动</Chinese>
+            <Spanish>Vibración</Spanish>
+            <Arabic>اهتزاز</Arabic>
+            <Japanese>振動</Japanese>
+            <Portuguese>vibração</Portuguese>
+        </Translates>
+    </Key>
+    <Key Name = "Language">
+        <Translates>
+            <English>Language</English>
+            <Russian>Язык</Russian>
+            <Chinese>语言</Chinese>
+            <Spanish>Idioma</Spanish>
+            <Arabic>لغة</Arabic>
+            <Japanese>言語</Japanese>
+            <Portuguese>língua</Portuguese>
+        </Translates>
+    </Key>
+    <Key Name = "Remove">
+        <Translates>
+            <English>Remove ads</English>
+            <Russian>Отключить рекламу </Russian>
+            <Chinese>停用广告</Chinese>
+            <Spanish>Desactivar los anuncios</Spanish>
+            <Arabic>عطل الاعلانات </Arabic>
+            <Japanese>広告を無効にする</Japanese>
+            <Portuguese>Desativar anúncios</Portuguese>
+        </Translates>
+    </Key>
+    <Key Name = "Restore">
+        <Translates>
+            <English>Restore purchases</English>
+            <Russian>Востановить покупки</Russian>
+            <Chinese>恢复购买</Chinese>
+            <Spanish>Restaurar compra</Spanish>
+            <Arabic>استعادة المشتريات  </Arabic>
+            <Japanese>購入を復元</Japanese>
+            <Portuguese>Restaurar compras</Portuguese>
+        </Translates>
+    </Key>
+        <Key Name = "Level">
+        <Translates>
+            <English>Restore purchases</English>
+            <Russian>Востановить покупки</Russian>
+            <Chinese>恢复购买</Chinese>
+            <Spanish>Restaurar compra</Spanish>
+            <Arabic>استعادة المشتريات  </Arabic>
+            <Japanese>購入を復元</Japanese>
+            <Portuguese>Restaurar compras</Portuguese>
+        </Translates>
+    </Key>
+        <Key Name = "Play">
+        <Translates>
+            <English>Restore purchases</English>
+            <Russian>Востановить покупки</Russian>
+            <Chinese>恢复购买</Chinese>
+            <Spanish>Restaurar compra</Spanish>
+            <Arabic>استعادة المشتريات  </Arabic>
+            <Japanese>購入を復元</Japanese>
+            <Portuguese>Restaurar compras</Portuguese>
+        </Translates>
+    </Key>
+        <Key Name = "Ochki">
+        <Translates>
+            <English>Restore purchases</English>
+            <Russian>Востановить покупки</Russian>
+            <Chinese>恢复购买</Chinese>
+            <Spanish>Restaurar compra</Spanish>
+            <Arabic>استعادة المشتريات  </Arabic>
+            <Japanese>購入を復元</Japanese>
+            <Portuguese>Restaurar compras</Portuguese>
+        </Translates>
+    </Key>
+</Keys>

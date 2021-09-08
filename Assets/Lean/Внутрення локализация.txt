@@ -1,0 +1,32 @@
+//Обязательно пропишите дерективу Lean
+using Lean;
+ 
+        if (Lean.Localization.LeanLocalization.currentLanguage.ToString()=="English")
+        {
+            
+        }
+        else if (Lean.Localization.LeanLocalization.currentLanguage.ToString() == "Russian")
+        {
+
+        }
+        else if (Lean.Localization.LeanLocalization.currentLanguage.ToString() == "Spanish")
+        {
+            
+        }
+        else if (Lean.Localization.LeanLocalization.currentLanguage.ToString() == "Portuguese")
+        {
+
+        }
+        else if (Lean.Localization.LeanLocalization.currentLanguage.ToString() == "Arabic")
+        {
+
+        }
+        else if (Lean.Localization.LeanLocalization.currentLanguage.ToString() == "Japanese")
+        {
+
+        }
+        else if (Lean.Localization.LeanLocalization.currentLanguage.ToString() == "Chinese")
+        {
+
+        }
+
